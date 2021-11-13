@@ -1,4 +1,4 @@
-[Voltar para a página inicial](./README.md)
+[Voltar para a página inicial](../README.md)
 # Índice
 
 [TOC]

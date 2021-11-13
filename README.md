@@ -4,4 +4,4 @@ Repositório usado para execução do primeiro desafio do bootcamp acerca de git
 
 # Notas de aula
 
-[Introdução ao git e github](./intro-git-github.md)
+[Introdução ao git e github](./intro-git-github/intro-git-github.md)
