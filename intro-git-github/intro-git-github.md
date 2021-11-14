@@ -1,7 +1,4 @@
 [Voltar para a página inicial](../README.md)
-# Índice
-
-[TOC]
 
 # Objetos fundamentais do git
 

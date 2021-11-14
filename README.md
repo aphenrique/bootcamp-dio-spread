@@ -5,3 +5,5 @@ Repositório usado para execução do primeiro desafio do bootcamp acerca de git
 # Notas de aula
 
 [Introdução ao git e github](./intro-git-github/intro-git-github.md)
+
+[Variáveis, tipos de dados e operadores matemáticos em java](./variaveis-tipos-de-dados-java/variaveis-tipos-de-dados-java.md)
